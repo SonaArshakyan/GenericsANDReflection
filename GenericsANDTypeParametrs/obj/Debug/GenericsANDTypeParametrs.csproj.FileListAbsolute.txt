@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\bin\Debug\test.exe.config
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\bin\Debug\test.exe
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\bin\Debug\test.pdb
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\obj\Debug\GenericsANDTypeParametrs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\obj\Debug\test.exe
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\obj\Debug\test.pdb
+C:\Users\Administrator\source\repos\GenericsANDReflection\test\obj\Debug\GenericsANDTypeParametrs.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\bin\Debug\GenericsANDTypeParametrs.exe.config
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\bin\Debug\GenericsANDTypeParametrs.exe
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\bin\Debug\GenericsANDTypeParametrs.pdb
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\obj\Debug\GenericsANDTypeParametrs.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\obj\Debug\GenericsANDTypeParametrs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\obj\Debug\GenericsANDTypeParametrs.exe
+C:\Users\Administrator\source\repos\GenericsANDReflection\GenericsANDTypeParametrs\obj\Debug\GenericsANDTypeParametrs.pdb
